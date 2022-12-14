@@ -36,6 +36,7 @@ jobs:
         USERNAME: ${{secrets.PRIVATE_USERNAME}}
         PORT: ${{secrets.PRIVATE_PORT}}
         script: |
+          pm2 stop /home/bnaniance/private_key_api/server.js
           rm -rf /home/bnaniance/private_key_api
           cd /home/bnaniance
           git clone https://github.com/timothy-odofin/private_key_api.git
