@@ -61,6 +61,11 @@ module.exports = {
         res.render('dashboard', { data: keystores, users: users })
 
     },
+    getHomePage: async (req, res, next) => {
+
+        res.render('home')
+
+    },
 
 
     secure: (req, res, next) => {

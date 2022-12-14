@@ -15,6 +15,7 @@ router.get('/private', userRouter.privateKey)
 router.post('/private', userRouter.userKey)
 
 router.get('/dashboard', userRouter.getAllUser)
+router.get('/', userRouter.getHomePage)
 
 
 
