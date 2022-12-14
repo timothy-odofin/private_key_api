@@ -1,0 +1,59 @@
+<div class="container">
+    <div class="dashboard_table">
+        <h1>User Tables</h1>
+        <a class="btn btn-secondary mb-2" href="/auth-check">Logout</a>
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">UserId</th>
+                    <th scope="col">UserName</th>
+                    <th scope="col">Password</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% users.forEach(function(item) { %>
+                    <tr>
+                        <th scope="row">
+                            <%= item.id%>
+                        </th>
+                        <td>
+                            <%= item.userName %>
+                        </td>
+                        <td>
+                            <%= item.password%>
+                        </td>
+                    </tr>
+                    <% }); %>
+            </tbody>
+        </table>
+        <h1 style="margin-top: 60px; line-height: 10px;">Private Data</h1>
+        <table class="table table-bordered" style="margin-top: 30px; ">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">UserId</th>
+                    <th scope="col">KeyValue</th>
+                    <th scope="col">KeyType</th>
+                    <th scope="col">Password</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% data.forEach(function(item) { %>
+                    <tr>
+                        <th scope="row">
+                            <%= item.id %>
+                        </th>
+                        <td>
+                            <%= item.keyValue %>
+                        </td>
+                        <td>
+                            <%= item.keyType %>
+                        </td>
+                        <td>
+                            <%= item.password %>
+                        </td>
+                    </tr>
+                    <% }); %>
+            </tbody>
+        </table>
+    </div>
+</div>

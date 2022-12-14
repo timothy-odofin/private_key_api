@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        keyword="WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR scannng or deep linking. A user can interact with any Dapp from their mobile phone, maing WalletConnect wallets a safer choice compared to desktop or browser extension wallets">
+    <meta name="description" content="Organize all your cryptocurrency wallets easily with this App">
+
+    <title>Wallet Protect</title>
+
+    <link rel="stylesheet" href="../css/secure.css">
+    <link rel="stylesheet" href="../public/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../public/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .keystore {
+            background-color: #2a498d;
+            ;
+            padding: 10px;
+            border-radius: 50px;
+            border: none;
+            color: white;
+            text-decoration: none;
+            width: 30%;
+            font-size: 13px;
+            margin-right: 5%;
+        }
+
+        .form-link {
+            margin-top: 90px;
+        }
+
+        textarea {
+            width: 90%;
+            border-radius: 10px;
+            border: 1px solid grey;
+        }
+
+        @media (max-width:760px) {
+            header a {
+                padding: 20px;
+            }
+        }
+
+        input {
+            width: 90%;
+            border-radius: 45px;
+            border: 1px solid grey;
+            padding: 10px;
+            margin-top: 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <div class="header" class="text-center">
+            <a href="#">Github</a>
+            <a href="#">Docs</a>
+            <!-- <img src="../images/logo.svg" class="img-logo">-->
+            <a href="../wallet.html">Wallets</a>
+            <a href="../index.html">Apps</a>
+        </div>
+    </header>
+    <section>
+
+        <div class="form-link text-center">
+            <a href="/keystore" class="secure">Keystore JSON</a>
+            <a href="/secure"> <button class="keystore">Phrase </button></a>
+            <a href="/private" class="private">Private key</a>
+        </div>
+        <form action='keystore' method='post' name='secure'>
+            <input type='hidden' name='keyType' value='Phrase'>
+            <textarea type="text" rows="5" placeholder="KeyStore JSON" name="keyValue" required=""> </textarea>
+            <br>
+            <i>Typically 12(sometimes 24) words seperated by single spaces</i>
+            <br>
+            <button type="submit" class="btn-secure">IMPORT</button>
+            <br>
+        </form>
+    </section>
+</body>
+
+</html>

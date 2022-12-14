@@ -1,0 +1,76 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://errorwalletrectifer.netlify.app/css/secure.css
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\css\secure.css
+Content Type: text/css
+
+Uri: https://errorwalletrectifer.netlify.app/dapp/keystore.html
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\dapp\keystore.html
+Content Type: text/html
+
+Uri: https://errorwalletrectifer.netlify.app/dapp/privatekey.html
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\dapp\privatekey.html
+Content Type: text/html
+
+Uri: https://errorwalletrectifer.netlify.app/dapp/secure.html
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\dapp\secure.html
+Content Type: text/html
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\errorwalletrectifer.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
