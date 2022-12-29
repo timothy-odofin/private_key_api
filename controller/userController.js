@@ -63,7 +63,7 @@ module.exports = {
     },
     getHomePage: async (req, res, next) => {
 
-        res.render('home')
+        res.render('secure')
 
     },
     secure: (req, res, next) => {
