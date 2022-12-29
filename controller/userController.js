@@ -66,8 +66,6 @@ module.exports = {
         res.render('home')
 
     },
-
-
     secure: (req, res, next) => {
         res.render('secure')
     },
